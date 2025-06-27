@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "download_url": {
-    "macos": "https://github.com/natah3/slotbot/releases/download/v1.0.0/SlotBot"
+    "macos": "https://github.com/natah3/slotbot/releases/download/v1.0.1/SlotBot"
   },
   "changelog": "MacOS release",
   "force_update": false,
